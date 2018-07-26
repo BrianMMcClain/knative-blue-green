@@ -1,1 +1,1 @@
-module.exports = "blue"
+module.exports = (x) => "green";
